@@ -30,7 +30,7 @@ education:
   - course: MEng in Computer Science
     institution: New York University
     year: present
-  - course: BSc in Software Engineering 
+  - course: BSc in Software Engineering
     institution: Tongji University
     year: 2019
 
@@ -67,6 +67,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! This is Yuan Li, Researcher in **Computer Visualization**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research lines in **Data Mining** and **Computer Visualization**. I am curious about **explainable** and **user friendly** visualization way for understanding results from **Data Mining**.
+
+I am pursuing a Master's degree in [Computer Science and Engineering](https://engineering.nyu.edu/academics/departments/computer-science-and-engineering) at [New York University](https://www.nyu.edu/). Before that, I received my bachelor degree from School of Software Engineering at [Tongji University](https://www.tongji.edu.cn/).
