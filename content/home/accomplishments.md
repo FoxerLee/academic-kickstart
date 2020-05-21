@@ -2,10 +2,10 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Projects"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,50 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Artificial Intelligence and Smart Medical Lab, Tongji University"
+  # organization_url = "https://www.coursera.org"
+  title = "Prostate Cancer Classification for Few-shot Learning"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  # certificate_url = "https://www.coursera.org"
+  date_start = "2019-02-01"
+  date_end = "2019-06-01"
+  description = """
+  Task:
+  - Developed a novel deep learning framework, achieving an excellent result compared to other solutions on the dataset provided by the PROSTATEx Challenge.
+  
+  - Outperformed other traditional neural networks with 5.2x speedup and 4.56% acc improvement.
+  """
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
+  organization = "ICPR"
+  organization_url = "https://tianchi.aliyun.com/competition/entrance/231651/introduction"
+  title = "Text Detection of Web Images -- ICPR MTWI 2018 Challenge II"
+  # url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  # certificate_url = "https://www.edx.org"
   date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  date_end = "2018-06-01"
+  description = """
+  Task:
+  - Implemented an End-to-End system based on Aster and CTPN.
+
+  - Built an automatic system which can generate Chinese data automatically, containing 10,000 pieces of images, 6-10 chars for each image. Reached 6.72% improvement over baseline.
+  """
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  organization = "Artificial Intelligence and Smart Medical Lab, Tongji University"
+  # organization_url = "https://www.datacamp.com"
+  title = "Intelligent Diagnosis of Pulmonary Nodules"
+  # url = ""
+  # certificate_url = "https://www.datacamp.com"
+  date_start = "2017-01-01"
+  date_end = "2017-08-21"
+  description = """
+  Task:
+  - Preprocessed the original CT images.
+
+  - Built the Neural Network based on U-net, for identifying suspected pulmonary nodules.
+
+  - Published paper《A Hybrid Model: DGnet-SVM for the Classification of Pulmonary Nodules》.
+  """
 
 +++

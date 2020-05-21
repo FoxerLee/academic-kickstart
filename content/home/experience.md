@@ -34,9 +34,9 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Intern"
-  company = "Microsoft"
+  company = "National Instruments"
   company_url = ""
-  location = "National Instruments"
+  location = "Shanghai, China"
   date_start = "2018-08-01"
   date_end = "2019-01-31"
   description = """
@@ -77,6 +77,9 @@ Develop:
   date_start = "2016-09-01"
   date_end = "2019-06-01"
   description = """
+
+  Task:
+  
  - Investigated the well-known neural network for Few-shot Learning, Image Segmentation, and Detection.
  - Preprocessed the original CT images.
  - Tested on the dataset provided by the PROSTATEx Challenge, achieving an excellent result compared to other solutions.
