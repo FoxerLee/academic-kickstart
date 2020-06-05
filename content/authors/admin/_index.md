@@ -72,3 +72,5 @@ Hi! This is Yuan Li, Researcher in **Computer Visualization**.
 My research lines in **Data Mining** and **Computer Visualization**. I am curious about **explainable** and **user friendly** visualization way for understanding results from **Data Mining**.
 
 I am pursuing a Master's degree in [Computer Science and Engineering](https://engineering.nyu.edu/academics/departments/computer-science-and-engineering) at [New York University](https://www.nyu.edu/). Before that, I received my bachelor degree from School of Software Engineering at [Tongji University](https://www.tongji.edu.cn/).
+
+Feel free to reach me at foxerlee1@gmail.com or yl6606@nyu.edu. Or you can left your message [here](#contact), I will reply as soon as possible!
