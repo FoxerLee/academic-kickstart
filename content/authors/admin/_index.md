@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Student of Computer Science
+role: Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: New York University
-  url: "https://www.nyu.edu/"
+- name: Advertising Eng & Dev, Amazon
+  # url: "https://www.nyu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -29,7 +29,7 @@ education:
   courses:
   - course: MEng in Computer Science
     institution: New York University
-    year: present
+    year: 2021
   - course: BSc in Software Engineering
     institution: Tongji University
     year: 2019
@@ -67,10 +67,12 @@ user_groups:
 - Visitors
 ---
 
-Hi! This is Yuan Li, Researcher in **Computer Visualization**.
+Hi! This is Yuan Li, New joined Software Engineer and Researcher in **Computer Visualization**.
 
 My research lines in **Data Mining** and **Computer Visualization**. I am curious about **explainable** and **user friendly** visualization way for understanding results from **Data Mining**.
 
-I am pursuing a Master's degree in [Computer Science and Engineering](https://engineering.nyu.edu/academics/departments/computer-science-and-engineering) at [New York University](https://www.nyu.edu/). Before that, I received my bachelor degree from School of Software Engineering at [Tongji University](https://www.tongji.edu.cn/).
+I graduated as Master of [Science in Computer Science](https://engineering.nyu.edu/academics/departments/computer-science-and-engineering) at [New York University](https://www.nyu.edu/). Before that, I received my bachelor degree from School of Software Engineering at [Tongji University](https://www.tongji.edu.cn/). 
+
+Currently, I am working as Software Engineer at Amazon(NYC). 
 
 Feel free to reach me at foxerlee1@gmail.com or yl6606@nyu.edu. Or you can left your message [here](#contact), I will reply as soon as possible!
