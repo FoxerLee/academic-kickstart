@@ -18,6 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "SDE Intern"
+  company = "Amazon, Advertising Eng & Dev"
+  company_url = ""
+  location = "New York City, United States"
+  date_start = "2020-05-26"
+  date_end = "2020-08-13"
+  description = """
+  Responsibilities include:
+  
+  - Built UI for a new React website, replace the original JSP framework with React.
+  - Set up service to simulate endpoint calls.
+  """
+
+
+[[experience]]
   title = "Graduate Assistant"
   company = "New York University"
   company_url = ""
